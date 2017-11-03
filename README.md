@@ -1,7 +1,10 @@
 # vwh-demo1
 
-> learn webpack high
-
+> 
+learn more,
+一直在用backbone require grunt，最近想去换工作环境，被问到很多webpack vue的相关问题，之前也只是简单了解，不太熟悉，所以从头开始，搭建一个干净的功能齐全的结构。
+1，webpack.base.config修改了上传服务器./和/路径的问题
+2,之前用grunt tmttinpng压缩项目图片，webpack的今天添加了image-webpack-loader模块，压缩效果不如tmttinypng，但是后续会想办法添加更好的图片压缩打包。
 ## Build Setup
 
 ``` bash
